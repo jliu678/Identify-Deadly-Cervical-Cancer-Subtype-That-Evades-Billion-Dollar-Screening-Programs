@@ -22,7 +22,7 @@ Despite an annual $10 billion global investment in cervical cancer (CVC) screeni
 ## Results
 ### Figure 1: YAP1 is hyperactivated in a portion of cervical cancer patients that have poor prognosis.
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-57697-7/figures/1" target="_blank">
+  <a href="https://doi.org/10.64898/2026.01.18.700207" target="_blank">
      <img src="src/fig1.jpg" alt="Ag" width="700"/>
        <br>
        <em></em>
@@ -35,7 +35,7 @@ Despite an annual $10 billion global investment in cervical cancer (CVC) screeni
 
 ### Figure 2: Activation of YAP1 in cervical epithelial cells leads to tumors exhibiting high invasiveness and strong EMT signatures.
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-57697-7/figures/1" target="_blank">
+  <a href="https://doi.org/10.64898/2026.01.18.700207" target="_blank">
      <img src="src/fig2.jpg" alt="Ag" width="700"/>
        <br>
        <em></em>
@@ -48,7 +48,7 @@ Despite an annual $10 billion global investment in cervical cancer (CVC) screeni
 
 ### Figure 3: Single-cell RNA-seq reveals dynamic remodeling of the cervical cellular landscape during early tumorigenesis.
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-57697-7/figures/1" target="_blank">
+  <a href="https://doi.org/10.64898/2026.01.18.700207" target="_blank">
      <img src="src/fig3.jpg" alt="Ag" width="700"/>
        <br>
        <em></em>
@@ -62,7 +62,7 @@ Despite an annual $10 billion global investment in cervical cancer (CVC) screeni
 
 ### Figure 4: Mapping cervix cellular and molecular reprogramming during mesenchymal transition and invasion using spatial transcriptomics.
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-57697-7/figures/1" target="_blank">
+  <a href="https://doi.org/10.64898/2026.01.18.700207" target="_blank">
      <img src="src/fig4.jpg" alt="Ag" width="700"/>
        <br>
        <em></em>
@@ -76,7 +76,7 @@ Despite an annual $10 billion global investment in cervical cancer (CVC) screeni
 
 ### Figure 5: A combination of Single-cell RNAseq with spatial transcriptomics uncover the molecular mechanisms underlying the invasiveness of YAP1-induced carcinoma cells.
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-57697-7/figures/1" target="_blank">
+  <a href="https://doi.org/10.64898/2026.01.18.700207" target="_blank">
      <img src="src/fig5.jpg" alt="Ag" width="700"/>
        <br>
        <em></em>
@@ -89,7 +89,7 @@ Despite an annual $10 billion global investment in cervical cancer (CVC) screeni
 
 ### Figure 6: A combination of Single-cell RNAseq with spatial transcriptomics reveals a role of MDSC in mesenchymal cervical cancer development.
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-57697-7/figures/1" target="_blank">
+  <a href="https://doi.org/10.64898/2026.01.18.700207" target="_blank">
      <img src="src/fig6.jpg" alt="Ag" width="700"/>
        <br>
        <em></em>
@@ -103,8 +103,8 @@ Despite an annual $10 billion global investment in cervical cancer (CVC) screeni
 
 ### Figure S4: A bubble chart illustrating the human cervical cancer markers unique to EMT subtype.
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-57697-7/figures/1" target="_blank">
-     <img src="src/figs4.jpg" alt="Ag" width="700"/>
+  <a href="https://doi.org/10.64898/2026.01.18.700207" target="_blank">
+     <img src="src/figs4.png" alt="Ag" width="700"/>
        <br>
        <em></em>
   </a>
